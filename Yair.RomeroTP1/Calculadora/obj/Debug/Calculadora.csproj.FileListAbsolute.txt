@@ -7,3 +7,12 @@ C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calcul
 C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.pdb
 C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Yair.Romero\Desktop\Bla\tp_laboratorio_2\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache

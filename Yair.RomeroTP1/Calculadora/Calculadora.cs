@@ -10,10 +10,9 @@ namespace Calculadora
     {
         #region Atributos
         /// <summary>
-        /// Atributos y la iniciación del "resultado".
+        /// Atributos
         /// </summary>
-        double resultado = 00;
-        int op;
+        double resultado;
         #endregion
 
         #region Metodos
@@ -27,6 +26,7 @@ namespace Calculadora
         /// <returns>Resultado (Double)</returns>
         public double Operar(Numero numero1, Numero numero2, string operador)
         {
+            int op;
             ValidarOperador(operador); 
             op = int.Parse(operador);
             switch (op)
