@@ -1,0 +1,9 @@
+c:\users\yair.romero\documents\visual studio 2012\Projects\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\yair.romero\documents\visual studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\yair.romero\documents\visual studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\yair.romero\documents\visual studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\yair.romero\documents\visual studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Yair.Romero\Documents\Visual Studio 2012\Projects\Yair.RomeroTP1\Calculadora\obj\Debug\Calculadora.pdb
