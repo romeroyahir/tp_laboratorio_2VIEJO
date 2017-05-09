@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 using System.Drawing;
 
 namespace Entidades_2017
@@ -23,7 +22,7 @@ namespace Entidades_2017
         /// <param name="marca"></param>
         /// <param name="patente"></param>
         /// <param name="color"></param>
-        public Leche( EMarca marca, string patente, ConsoleColor color, ETipo tipo)
+        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo)
             :this( marca, patente,color)
         {
            this._tipo = tipo;
