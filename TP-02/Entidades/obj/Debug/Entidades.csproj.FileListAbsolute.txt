@@ -12,3 +12,4 @@ C:\Users\Yair.Romero\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\tp_
 C:\Users\Yair.Romero\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\tp_laboratorio_2-master\TP-02\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Yair.Romero\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\tp_laboratorio_2-master\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Yair.Romero\Desktop\tp_laboratorio_2-master\tp_laboratorio_2-master\tp_laboratorio_2-master\TP-02\Entidades\obj\Debug\Entidades.pdb
+
