@@ -1,0 +1,7 @@
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

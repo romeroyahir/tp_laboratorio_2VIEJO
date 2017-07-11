@@ -1,0 +1,14 @@
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.csprojResolveAssemblyReference.cache
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\LibArchivos.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\LibArchivos.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\Excepciones.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\Excepciones.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\LibArchivos.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\LibArchivos.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\Excepciones.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\bin\Debug\Excepciones.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\LibArchivos\obj\Debug\LibArchivos.pdb

@@ -1,0 +1,28 @@
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe.config
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.dll
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.dll
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.dll
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.pdb
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.exe
+C:\Users\Yair.Romero\Documents\Visual Studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe.config
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.exe
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.pdb

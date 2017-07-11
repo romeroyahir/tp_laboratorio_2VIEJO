@@ -1,0 +1,22 @@
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.csprojResolveAssemblyReference.cache
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\ClasesParaInstancia.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\ClasesParaInstancia.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\EntidadesAbstractas.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\Excepciones.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\LibArchivos.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\EntidadesAbstractas.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\Excepciones.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\LibArchivos.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\ClasesParaInstancia.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\ClasesParaInstancia.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\Excepciones.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\LibArchivos.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\Excepciones.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\bin\Debug\LibArchivos.pdb
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.csprojResolveAssemblyReference.cache
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.dll
+C:\Users\Yair.Romero\Documents\GitHub\tp_laboratorio_2\RecuperatoriosTP\TP 3\Romero.Yair.2E.TP3\ClasesParaInstancia\obj\Debug\ClasesParaInstancia.pdb

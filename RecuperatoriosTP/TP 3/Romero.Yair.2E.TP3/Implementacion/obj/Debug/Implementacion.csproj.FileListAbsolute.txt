@@ -1,0 +1,14 @@
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.csprojResolveAssemblyReference.cache
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe.config
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.exe
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Implementacion.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.dll
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\ClasesParaInstancia.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\EntidadesAbstractas.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\Excepciones.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\bin\Debug\LibArchivos.pdb
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.exe
+c:\users\yair.romero\documents\visual studio 2017\Projects\Romero.Yair.2E.TP3\Implementacion\obj\Debug\Implementacion.pdb
